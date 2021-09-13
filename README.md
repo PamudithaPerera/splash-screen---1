@@ -1,5 +1,4 @@
 # modern splash screen
-![Logo Placement](https://user-images.githubusercontent.com/90514603/133110977-53150f8d-1cc3-44a6-ab3c-294e0222b96e.png)
 
 Hello friends, in this tutorial you will learn how to Make a modern splash screen with custom progress bar in visual studio winform, c# tutorials, .Net tutorials.
 
