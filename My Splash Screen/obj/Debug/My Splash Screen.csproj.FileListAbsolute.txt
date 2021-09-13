@@ -1,0 +1,11 @@
+D:\My Splash Screen\My Splash Screen\bin\Debug\My Splash Screen.exe.config
+D:\My Splash Screen\My Splash Screen\bin\Debug\My Splash Screen.exe
+D:\My Splash Screen\My Splash Screen\bin\Debug\My Splash Screen.pdb
+D:\My Splash Screen\My Splash Screen\obj\Debug\My Splash Screen.csproj.AssemblyReference.cache
+D:\My Splash Screen\My Splash Screen\obj\Debug\My_Splash_Screen.Form1.resources
+D:\My Splash Screen\My Splash Screen\obj\Debug\My_Splash_Screen.Form2.resources
+D:\My Splash Screen\My Splash Screen\obj\Debug\My_Splash_Screen.Properties.Resources.resources
+D:\My Splash Screen\My Splash Screen\obj\Debug\My Splash Screen.csproj.GenerateResource.cache
+D:\My Splash Screen\My Splash Screen\obj\Debug\My Splash Screen.csproj.CoreCompileInputs.cache
+D:\My Splash Screen\My Splash Screen\obj\Debug\My Splash Screen.exe
+D:\My Splash Screen\My Splash Screen\obj\Debug\My Splash Screen.pdb
